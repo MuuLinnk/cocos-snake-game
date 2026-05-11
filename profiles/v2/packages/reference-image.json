@@ -1,0 +1,18 @@
+{
+  "__version__": "1.0.0",
+  "show": true,
+  "config": {
+    "images": [],
+    "sceneUUID": {
+      "c77ecaa8-c936-46c4-a5b0-98692673ed87": {
+        "path": ""
+      },
+      "73d182a9-1b3d-4c89-bf13-bc7dee59abc3": {
+        "path": ""
+      }
+    },
+    "scene": "73d182a9-1b3d-4c89-bf13-bc7dee59abc3"
+  },
+  "root-path": "C:\\Users\\Administrator\\Desktop",
+  "opacity": 118
+}
